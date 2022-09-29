@@ -1,6 +1,6 @@
 # Tango Atsumare
 
-<!-- ![tango.png](Tango%20Atsumare%20c116bf2b51364f4fb0207c5ad87fdcf5/tango.png) -->
+![tango.png](Tango%20Atsumare%20c116bf2b51364f4fb0207c5ad87fdcf5/tango.png)
 
 # Introduction
 
@@ -69,30 +69,34 @@ Short for “Spaced Repetition System”
 
 ---
 
-<!-- ![Graeme](Tango%20Atsumare%20c116bf2b51364f4fb0207c5ad87fdcf5/Untitled.png) -->
+![Graeme](Tango%20Atsumare%20c116bf2b51364f4fb0207c5ad87fdcf5/Untitled.png)
 
 Graeme
 
-https://github.com/graememick
+![GitHub-Mark-32px.png](Tango%20Atsumare%20c116bf2b51364f4fb0207c5ad87fdcf5/GitHub-Mark-32px.png)
 
+/graememick
 
-<!-- ![Keith](Tango%20Atsumare%20c116bf2b51364f4fb0207c5ad87fdcf5/Untitled%201.png) -->
+![Keith](Tango%20Atsumare%20c116bf2b51364f4fb0207c5ad87fdcf5/Untitled%201.png)
 
 Keith
 
-https://github.com/keithching
+![GitHub-Mark-32px.png](Tango%20Atsumare%20c116bf2b51364f4fb0207c5ad87fdcf5/GitHub-Mark-32px.png)
 
+/keithching
 
-<!-- ![Kenny](Tango%20Atsumare%20c116bf2b51364f4fb0207c5ad87fdcf5/Untitled%202.png) -->
+![Kenny](Tango%20Atsumare%20c116bf2b51364f4fb0207c5ad87fdcf5/Untitled%202.png)
 
 Kenny
 
-https://github.com/khiz125
+![GitHub-Mark-32px.png](Tango%20Atsumare%20c116bf2b51364f4fb0207c5ad87fdcf5/GitHub-Mark-32px.png)
 
+/khiz125
 
-<!-- ![Dean](Tango%20Atsumare%20c116bf2b51364f4fb0207c5ad87fdcf5/Untitled%203.png) -->
+![Dean](Tango%20Atsumare%20c116bf2b51364f4fb0207c5ad87fdcf5/Untitled%203.png)
 
 Dean
 
-https://github.com/gomizilla
+![GitHub-Mark-32px.png](Tango%20Atsumare%20c116bf2b51364f4fb0207c5ad87fdcf5/GitHub-Mark-32px.png)
 
+/gomizilla
