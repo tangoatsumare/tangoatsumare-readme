@@ -1,6 +1,7 @@
 # Tango Atsumare
-
-<img src="assets/tango.png">
+<p align="center">
+    <img src="assets/tango.png">
+</p>
 
 # Introduction
 
@@ -15,7 +16,7 @@
 
 - Video of our features
 
-[![Watch the video](assets/tango-video-thumbnail.webp)](https://www.youtube.com/watch?v=I5Eut86peEA)
+[![Watch the video](assets/tango-video-thumbnail2.jpg)](https://www.youtube.com/watch?v=PSH1h7tCUjM)
 
 <!-- [https://www.youtube.com/watch?v=I5Eut86peEA](https://www.youtube.com/watch?v=I5Eut86peEA) -->
 
@@ -59,6 +60,28 @@ Short for “Spaced Repetition System”
 - Public/private switch for user created flashcards
 - Gamification - achievements/levels/progress bar/etc.
 
+## How To Get It Running
+
+Our app uses Google Firebase and Google Vision API on the frontend and mongoDB on the backend. Make sure you have accounts for each of these.
+
+### Setting up the backend
+- Clone the backend repository
+-
+
+### Setting up the frontend
+- Clone the frontend repository
+- Open the repo with VS Code
+- Type ```npm install``` in the console to install all dependencies
+- Create a ```.env``` file in the root directory with these required variables
+    - ``GOOGLE_CLOUD_VISION_API_KEY=Your_cloud_vision_api_key
+        FIREBASE_API_KEY=Your_firebase_vision_api_key
+        FIREBASE_AUTH_DOMAIN=Your_firebase_auth_domain
+        FIREBASE_PROJECT_ID=Your_firebase_project_id
+        FIREBASE_STORAGE_BUCKET=Your_firebase_storage_bucket
+        FIREBASE_MESSAGING_SENDER_ID=Your_firebase_sender_id
+        FIREBASE_APP_ID=Your_firebase_app_id``
+- Type ```expo start``` in the console to run the app!
+
 ## Meet the Team
 
 <img src="assets/Keith.png" width="200" height="200" alt="Keith">
@@ -80,3 +103,7 @@ Kenny
 
 [![Dean's GitHub](assets/GitHub-Mark-32px.png)](https://github.com/gomizilla)
 Dean
+
+## Feedback and Questions
+
+If you have any feedback or questions for us at Tango Atsumare, feel free to contact any of us and let us know!
