@@ -13,8 +13,6 @@
 
 ## Media Links
 
----
-
 - Video of our features
 
 [![Watch the video](assets/tango-video-thumbnail.webp)](https://www.youtube.com/watch?v=I5Eut86peEA)
@@ -55,8 +53,6 @@ Short for “Spaced Repetition System”
 
 ## Future Features
 
----
-
 - Initial tutorial for new users
 - Localization for Japan
 - Dark mode
@@ -64,8 +60,6 @@ Short for “Spaced Repetition System”
 - Gamification - achievements/levels/progress bar/etc.
 
 ## Meet the Team
-
----
 
 <img src="assets/Keith.png" width="200" height="200" alt="Keith">
 
