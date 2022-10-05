@@ -79,7 +79,7 @@ Our app uses Google Firebase and Google Vision API on the frontend and mongoDB o
         FIREBASE_PROJECT_ID=Your_firebase_project_id
         FIREBASE_STORAGE_BUCKET=Your_firebase_storage_bucket
         FIREBASE_MESSAGING_SENDER_ID=Your_firebase_sender_id
-        FIREBASE_APP_ID=Your_firebase_app_id```
+        FIREBASE_APP_ID=Your_firebase_app_id
 - Type ```expo start``` in the console to run the app!
 
 ## Meet the Team
