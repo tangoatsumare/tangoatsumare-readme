@@ -73,13 +73,13 @@ Our app uses Google Firebase and Google Vision API on the frontend and mongoDB o
 - Open the repo with VS Code
 - Type ```npm install``` in the console to install all dependencies
 - Create a ```.env``` file in the root directory with these required variables
-    - ``GOOGLE_CLOUD_VISION_API_KEY=Your_cloud_vision_api_key
+    - ```GOOGLE_CLOUD_VISION_API_KEY=Your_cloud_vision_api_key
         FIREBASE_API_KEY=Your_firebase_vision_api_key
         FIREBASE_AUTH_DOMAIN=Your_firebase_auth_domain
         FIREBASE_PROJECT_ID=Your_firebase_project_id
         FIREBASE_STORAGE_BUCKET=Your_firebase_storage_bucket
         FIREBASE_MESSAGING_SENDER_ID=Your_firebase_sender_id
-        FIREBASE_APP_ID=Your_firebase_app_id``
+        FIREBASE_APP_ID=Your_firebase_app_id```
 - Type ```expo start``` in the console to run the app!
 
 ## Meet the Team
