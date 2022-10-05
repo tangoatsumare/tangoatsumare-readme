@@ -1,6 +1,6 @@
 # Tango Atsumare
 
-<img src="tango.png">
+<img src="assets/tango.png">
 
 # Introduction
 
@@ -17,7 +17,7 @@
 
 - Video of our features
 
-[![Watch the video](tango-video-thumbnail.webp)](https://www.youtube.com/watch?v=I5Eut86peEA)
+[![Watch the video](assets/tango-video-thumbnail.webp)](https://www.youtube.com/watch?v=I5Eut86peEA)
 
 <!-- [https://www.youtube.com/watch?v=I5Eut86peEA](https://www.youtube.com/watch?v=I5Eut86peEA) -->
 
@@ -67,22 +67,22 @@ Short for “Spaced Repetition System”
 
 ---
 
-<img src="Keith.png" width="200" height="200" alt="Keith">
+<img src="assets/Keith.png" width="200" height="200" alt="Keith">
 
-[![Keith's GitHub](GitHub-Mark-32px.png)](https://github.com/keithching)
+[![Keith's GitHub](assets/GitHub-Mark-32px.png)](https://github.com/keithching)
 Keith
 
-<img src="Graeme.png" width="200" height="200" alt="Graeme">
+<img src="assets/Graeme.png" width="200" height="200" alt="Graeme">
 
-[![Graeme's GitHub](GitHub-Mark-32px.png)](https://github.com/graememick)
+[![Graeme's GitHub](assets/GitHub-Mark-32px.png)](https://github.com/graememick)
 Graeme 
 
-<img src="Kenny.png" width="200" height="200" alt="Kenny">
+<img src="assets/Kenny.png" width="200" height="200" alt="Kenny">
 
-[![Kenny's GitHub](GitHub-Mark-32px.png)](https://github.com/khiz125)
+[![Kenny's GitHub](assets/GitHub-Mark-32px.png)](https://github.com/khiz125)
 Kenny
 
-<img src="Dean.png" width="200" height="200" alt="Dean">
+<img src="assets/Dean.png" width="200" height="200" alt="Dean">
 
-[![Dean's GitHub](GitHub-Mark-32px.png)](https://github.com/gomizilla)
+[![Dean's GitHub](assets/GitHub-Mark-32px.png)](https://github.com/gomizilla)
 Dean
