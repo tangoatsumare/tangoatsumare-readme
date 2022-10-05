@@ -1,10 +1,8 @@
 # Tango Atsumare
 
-<!-- ![tango.png](Tango%20Atsumare%20c116bf2b51364f4fb0207c5ad87fdcf5/tango.png) -->
+<img src="tango.png">
 
 # Introduction
-
----
 
 - Tango Atsumare helps users expand their vocabulary by making the process of creating high quality flashcards easier and more fun than ever before.
 - You can use Tango Atsumare to review your new vocabulary using a spaced repetition flashcard review system, which contains an algorithm that allows users to spend less time studying, while improving retention.
@@ -19,11 +17,11 @@
 
 - Video of our features
 
-[https://www.youtube.com/watch?v=I5Eut86peEA](https://www.youtube.com/watch?v=I5Eut86peEA)
+[![Watch the video](tango-video-thumbnail.webp)](https://www.youtube.com/watch?v=I5Eut86peEA)
+
+<!-- [https://www.youtube.com/watch?v=I5Eut86peEA](https://www.youtube.com/watch?v=I5Eut86peEA) -->
 
 # Features
-
----
 
 ### OCR to Flashcard
 
@@ -69,30 +67,22 @@ Short for “Spaced Repetition System”
 
 ---
 
-<!-- ![Graeme](Tango%20Atsumare%20c116bf2b51364f4fb0207c5ad87fdcf5/Untitled.png) -->
+<img src="Keith.png" width="200" height="200" alt="Keith">
 
-Graeme
-
-https://github.com/graememick
-
-
-<!-- ![Keith](Tango%20Atsumare%20c116bf2b51364f4fb0207c5ad87fdcf5/Untitled%201.png) -->
-
+[![Keith's GitHub](GitHub-Mark-32px.png)](https://github.com/keithching)
 Keith
 
-https://github.com/keithching
+<img src="Graeme.png" width="200" height="200" alt="Graeme">
 
+[![Graeme's GitHub](GitHub-Mark-32px.png)](https://github.com/graememick)
+Graeme 
 
-<!-- ![Kenny](Tango%20Atsumare%20c116bf2b51364f4fb0207c5ad87fdcf5/Untitled%202.png) -->
+<img src="Kenny.png" width="200" height="200" alt="Kenny">
 
+[![Kenny's GitHub](GitHub-Mark-32px.png)](https://github.com/khiz125)
 Kenny
 
-https://github.com/khiz125
+<img src="Dean.png" width="200" height="200" alt="Dean">
 
-
-<!-- ![Dean](Tango%20Atsumare%20c116bf2b51364f4fb0207c5ad87fdcf5/Untitled%203.png) -->
-
+[![Dean's GitHub](GitHub-Mark-32px.png)](https://github.com/gomizilla)
 Dean
-
-https://github.com/gomizilla
-
