@@ -1,4 +1,5 @@
 # Tango Atsumare
+
 <p align="center">
     <img src="assets/tango.png">
 </p>
@@ -8,9 +9,9 @@
 - Tango Atsumare helps users expand their vocabulary by making the process of creating high quality flashcards easier and more fun than ever before.
 - You can use Tango Atsumare to review your new vocabulary using a spaced repetition flashcard review system, which contains an algorithm that allows users to spend less time studying, while improving retention.
 - Tango Atsumare is also a community as newly created flashcards are added into a public feed.
-    - Browse for new words at your leisure, adding them to your flashcard deck as you go.
-    - Search for a new word you’ve recently encountered and find pictures that other users have uploaded containing that word.
-    - See real world examples of those words in context.
+  - Browse for new words at your leisure, adding them to your flashcard deck as you go.
+  - Search for a new word you’ve recently encountered and find pictures that other users have uploaded containing that word.
+  - See real world examples of those words in context.
 
 ## Media Links
 
@@ -39,18 +40,18 @@ A feed containing all recently uploaded pictures. Here you can see the pictures 
 
 - Scroll through and see what users have uploaded recently
 - Click on an individual picture to get more details and upon clicking you can:
-    - See more in-depth information on the card such as the full sentence, the chosen word, and the English meaning
-    - Like the card
-    - Add the card to your own collection
-    - Report if the image is inappropriate
-    - See tags that the original uploader has chosen for said card
+  - See more in-depth information on the card such as the full sentence, the chosen word, and the English meaning
+  - Like the card
+  - Add the card to your own collection
+  - Report if the image is inappropriate
+  - See tags that the original uploader has chosen for said card
 
 ### SRS Review
 
-Short for “Spaced Repetition System” 
+Short for “Spaced Repetition System”
 
 **Spaced repetition**
- is a flashcard based system for learning. Difficult flashcards are shown more frequently, while older and less difficult flashcards are shown less frequently. SRS’s have been proven to increase the rate of learning
+is a flashcard based system for learning. Difficult flashcards are shown more frequently, while older and less difficult flashcards are shown less frequently. SRS’s have been proven to increase the rate of learning
 
 ## Future Features
 
@@ -65,22 +66,35 @@ Short for “Spaced Repetition System”
 Our app uses Google Firebase and Google Vision API on the frontend and mongoDB on the backend. Make sure you have accounts for each of these.
 
 ### Setting up the backend
+
 - Clone the backend repository
--
+- Open the repo with VS Code
+- Type `npm install` in the console to install all dependencies
+- Create a `.env` file in the root directory with these required variables
+
+```
+MONGO_URI=Your_mongodb_URL
+SECRETKEY=SECRET-KEY
+```
+
+- Deploy to Heroku
+- Set eachendpoint to Frontend
 
 ### Setting up the frontend
+
 - Clone the frontend repository
 - Open the repo with VS Code
-- Type ```npm install``` in the console to install all dependencies
-- Create a ```.env``` file in the root directory with these required variables
-    - ```GOOGLE_CLOUD_VISION_API_KEY=Your_cloud_vision_api_key
-        FIREBASE_API_KEY=Your_firebase_vision_api_key
-        FIREBASE_AUTH_DOMAIN=Your_firebase_auth_domain
-        FIREBASE_PROJECT_ID=Your_firebase_project_id
-        FIREBASE_STORAGE_BUCKET=Your_firebase_storage_bucket
-        FIREBASE_MESSAGING_SENDER_ID=Your_firebase_sender_id
-        FIREBASE_APP_ID=Your_firebase_app_id
-- Type ```expo start``` in the console to run the app!
+- Type `npm install` in the console to install all dependencies
+- Create a `.env` file in the root directory with these required variables
+  - ```GOOGLE_CLOUD_VISION_API_KEY=Your_cloud_vision_api_key
+      FIREBASE_API_KEY=Your_firebase_vision_api_key
+      FIREBASE_AUTH_DOMAIN=Your_firebase_auth_domain
+      FIREBASE_PROJECT_ID=Your_firebase_project_id
+      FIREBASE_STORAGE_BUCKET=Your_firebase_storage_bucket
+      FIREBASE_MESSAGING_SENDER_ID=Your_firebase_sender_id
+      FIREBASE_APP_ID=Your_firebase_app_id
+    ```
+- Type `expo start` in the console to run the app!
 
 ## Meet the Team
 
@@ -92,7 +106,7 @@ Keith
 <img src="assets/Graeme.png" width="200" height="200" alt="Graeme">
 
 [![Graeme's GitHub](assets/GitHub-Mark-32px.png)](https://github.com/graememick)
-Graeme 
+Graeme
 
 <img src="assets/Kenny.png" width="200" height="200" alt="Kenny">
 
