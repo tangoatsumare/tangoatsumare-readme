@@ -14,24 +14,22 @@
 
 ## Media Links
 
-- Video of our features
+- Video of our features:
 
 [![Watch the video](assets/tango-video-thumbnail2.jpg)](https://www.youtube.com/watch?v=PSH1h7tCUjM)
-
-<!-- [https://www.youtube.com/watch?v=I5Eut86peEA](https://www.youtube.com/watch?v=I5Eut86peEA) -->
 
 # Features
 
 ### OCR to Flashcard
 
-We wanted to created the OCR to Flashcard feature because in most cases it would take 2 or 3 apps just to recreate the process that we have streamlined in this one step. In order to retain visual context for the target vocabulary, you’d have to take a picture of the word you want to learn, you’d need to
+We wanted to create the OCR to Flashcard feature because in most cases it would take 2 or 3 apps just to recreate the process that we have streamlined in this one step. In order to retain visual context for the target vocabulary, in other applications you’d need to:
 
-- take a picture of the target vocabulary.
-- Use an OCR to Text application to convert the image to test
-- Extract both the sentence, and the target vocabulary
+- Take a picture of the target vocabulary.
+- Use an OCR to Text application to convert the image to text
+- Extract both the sentence and the target vocabulary
 - Search a dictionary for the meaning of the word
-- go back and forth filling out fields just to create a single entry into your flashcard app of choice
-- copy and paste the sentence, the target word, the meaning, and to retain as much context as possible, the original picture as well
+- Go back and forth filling out fields just to create a single entry into your flashcard app of choice
+- Copy and paste the sentence, the target word, the meaning, and to retain as much context as possible, the original picture as well
 
 ### Picture Dictionary
 
@@ -73,7 +71,8 @@ Our app uses Google Firebase and Google Vision API on the frontend and mongoDB o
 - Open the repo with VS Code
 - Type ```npm install``` in the console to install all dependencies
 - Create a ```.env``` file in the root directory with these required variables
-    - ```GOOGLE_CLOUD_VISION_API_KEY=Your_cloud_vision_api_key
+    - ```
+        GOOGLE_CLOUD_VISION_API_KEY=Your_cloud_vision_api_key
         FIREBASE_API_KEY=Your_firebase_vision_api_key
         FIREBASE_AUTH_DOMAIN=Your_firebase_auth_domain
         FIREBASE_PROJECT_ID=Your_firebase_project_id
