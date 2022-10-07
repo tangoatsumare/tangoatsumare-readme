@@ -65,7 +65,7 @@ Our app uses Google Firebase and Google Vision API on the frontend while using m
 
 ### Setting up the backend
 
-- Clone the [backend](https://github.com/tangoatsumare/tangoatsumare-api-ts) repository
+- Clone the <a href="https://github.com/tangoatsumare/tangoatsumare-api-ts" target="_blank"> frontend </a> repository
 - Open the repo with VS Code
 - Type `npm install` in the console to install all dependencies
 - Create a `.env` file in the root directory with these required variables
@@ -80,7 +80,7 @@ SECRETKEY=SECRET-KEY
 
 ### Setting up the frontend
 
-- Clone the [frontend](https://github.com/tangoatsumare/tangoatsumare-frontend) repository
+- Clone the <a href="https://github.com/tangoatsumare/tangoatsumare-frontend" target="_blank"> frontend </a> repository
 - Open the repo with VS Code
 - Type ```npm install``` in the console to install all dependencies
 - Create a ```.env``` file in the root directory with these required variables
